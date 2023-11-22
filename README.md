@@ -15,13 +15,15 @@ I currently work as development director at [Eversoft](https://www.eversoft.com.
 
 ## Technologies
 - 🐘 PHP (Laravel)
+- 🐹 GO (Microservices)
 - ☕ Java (Android)
-- 🐦Swift (iOS)
-- 💎Ruby (Rails)
-- 🐍Python (Django)
-- ⚙️RUST
-- 🖖🏻Javascript (Vue, Quasar)
-- 🖌️Css (Scss)
+- 🫐 Kotlin (Android)
+- 🐦 Swift (iOS)
+- 💎 Ruby (Rails)
+- 🐍 Python (Django)
+- ⚙️ RUST
+- 🖖🏻 Javascript (Vue, Quasar)
+- 🖌️ Css (Scss)
 
 
 ## Get in touch around the web 🌍

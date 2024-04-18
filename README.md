@@ -12,6 +12,7 @@ I currently work as development director at [Eversoft](https://www.eversoft.com.
 - Apps Development
 - Graphic Design
 - UI / UX Interface Design
+- Motion Graphics 2D & 3D
 
 ## Technologies
 - 🐘 PHP (Laravel)

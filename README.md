@@ -10,6 +10,7 @@ I currently work as development director at [Eversoft](https://www.eversoft.com.
 - Software Development
 - Web Development
 - Apps Development
+- DevOPS (Linux, Windows Server)
 - Graphic Design
 - UI / UX Interface Design
 - Motion Graphics 2D & 3D
@@ -17,6 +18,7 @@ I currently work as development director at [Eversoft](https://www.eversoft.com.
 ## Technologies
 - 🐘 PHP (Laravel, API)
 - 🐹 GO (Microservices, API)
+- #️⃣ C# (API, .NET, Windows Forms) 
 - ☕ Java (Android)
 - 🫐 Kotlin (Android)
 - 🐦 Swift (iOS)

@@ -15,16 +15,17 @@ I currently work as development director at [Eversoft](https://www.eversoft.com.
 - Motion Graphics 2D & 3D
 
 ## Technologies
-- 🐘 PHP (Laravel)
-- 🐹 GO (Microservices)
+- 🐘 PHP (Laravel, API)
+- 🐹 GO (Microservices, API)
 - ☕ Java (Android)
 - 🫐 Kotlin (Android)
 - 🐦 Swift (iOS)
 - 💎 Ruby (Rails)
 - 🐍 Python (Django)
 - ⚙️ RUST
-- 🖖🏻 Javascript (Vue, Quasar)
+- 🖖🏻 Javascript (Vue, Quasar, API, Websockets)
 - 🖌️ Css (Scss)
+- 🐬 SQL (MYSQL, Postgresql) 
 
 
 ## Get in touch around the web 🌍

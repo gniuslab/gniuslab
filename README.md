@@ -17,16 +17,27 @@ I currently work as development director at [Eversoft](https://www.eversoft.com.
 
 ## Technologies
 🐘 PHP (Laravel, API)
+
 🐹 GO (Microservices, API)
+
 #️⃣ C# (API, .NET, Windows Forms) 
+
 ☕ Java (Android)
+
 🫐 Kotlin (Android)
+
 🐦 Swift (iOS)
+
 💎 Ruby (Rails)
+
 🐍 Python (Django)
+
 ⚙️ RUST
+
 🖖🏻 Javascript (Vue, Quasar, API, Websockets)
+
 🖌️ Css (Scss)
+
 🐬 SQL (MYSQL, Postgresql) 
 
 
